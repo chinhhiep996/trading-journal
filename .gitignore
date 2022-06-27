@@ -1,0 +1,5 @@
+api/.vs
+api/Web/bin
+api/Web/obj
+
+web/node_modules
